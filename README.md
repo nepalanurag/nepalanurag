@@ -24,7 +24,7 @@ Each of these has a demo that runs in the browser.
 ## Things I build
 
 - [TuneGrab](https://github.com/nepalanurag/tunegrab) — free offline music player for Android.
-- [GratisBench](https://github.com/nepalanurag/gratisbench) — 32 free tools that run entirely in your browser.
+- [LocalPDF](https://github.com/nepalanurag/localpdf) — 32 free PDF tools that never upload your files.
 
 ## Stack
 
