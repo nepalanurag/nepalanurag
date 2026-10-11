@@ -1,6 +1,6 @@
 # Hi, I'm Anurag
 
-I'm an M.S. Statistics student at San Francisco State University. I work on machine learning for medical diagnostics and on statistics in the age of AI, and I build things on the side.
+I finished my M.S. in Statistical Data Science at San Francisco State University in May 2026. I work on machine learning for medical diagnostics and on statistics in the age of AI, and I build things on the side.
 
 ## Medical diagnostics
 
@@ -24,7 +24,7 @@ Each of these has a demo that runs in the browser.
 ## Things I build
 
 - [TuneGrab](https://github.com/nepalanurag/tunegrab) — free offline music player for Android.
-- [LocalPDF](https://github.com/nepalanurag/localpdf) — 32 free PDF tools that never upload your files.
+- [TruePDF](https://github.com/nepalanurag/truepdf) — 39 free browser tools that never upload your files.
 
 ## Stack
 
