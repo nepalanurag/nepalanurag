@@ -8,7 +8,7 @@ Each of these has a demo that runs in the browser.
 
 - [Malaria cell classifier](https://github.com/nepalanurag/Detection-of-Malaria-Using-CNN) — CNN on blood smear images. 93.2% accuracy, AUC 0.958. [Live demo](https://malaria-cnn-web.vercel.app)
 - [COVID CT infection mapping](https://github.com/nepalanurag/Biomedical-Imaging-Analysis) — segmentation and quantification of COVID lung infection in CT scans. [Live demo](https://covid-ct-web.vercel.app)
-- [ECG heartbeat classifier](https://github.com/nepalanurag/ECG-Classification) — arrhythmia classification at 98.8% accuracy on the shipped split. [Live demo](https://ecg-classification-web.vercel.app)
+- [ECG heartbeat classifier](https://github.com/nepalanurag/ECG-Classification) — arrhythmia classification at 98.8% accuracy on the shipped split, 87% under strict patient-grouped cross-validation. [Live demo](https://ecg-classification-web.vercel.app)
 
 ## Statistics meets AI
 
